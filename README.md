@@ -1,4 +1,4 @@
-<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/2521ea7d-a350-47a7-bece-c6159eeee518" /># ESP32-web-streaming-camera-face-detection-telegram-alert-
+ ESP32-web-streaming-camera-face-detection-telegram-alert-
   Door Security Camera
 An ESP32-CAM based smart door camera that streams live video, detects faces, and sends photo alerts to your phone through Telegram.
    Features : 
